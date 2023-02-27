@@ -1,7 +1,10 @@
 # fullstack_open_part0
 
-EJERCICIO 5: </br>
+EJERCICIO 4: </br>
 https://www.websequencediagrams.com/files/render?link=FvYi6hE4pD2rmDFe0mxNWxOcXtVGFAk1FOSlyUcd44SI90oiv06OTEnoVr7bzVzC
+
+EJERCICIO 5: </br>
+https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgYWNjZXNvIHZlcnNpb24gcGFnaW5hIFNQQQoKYnJvd3Nlci0-c2VydmVyOgAkCAAZCwAUBi0-ACQHOgA4CGh0bWwgb2J0ZW5pZGEgZGVsIHNlcnZpZG9yCgpub3RlIG92ZXIgAC0JCmNvbgAnBW8gc2UgbWFuaXB1bGEgY29uIEphdmFTY3JpcHQgCnF1ZSBzZSBlamVjdXRhIGVuIGVsIG5hdmVnYWRvci4KZW5kIG5vdGUKCg&s=default
 
 EJERCICIO 6: </br>
 https://www.websequencediagrams.com/files/render?link=bp5MJUzu8eovgDrGjdJoy4xcHtWze1TjTqAKKs7K60kzRxlYMIOlRve4EnereoBa
