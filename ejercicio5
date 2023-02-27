@@ -1,0 +1,9 @@
+title acceso version pagina SPA
+
+browser->server: acceso pagina SPA
+server->browser: pagina html obtenida del servidor
+
+note over browser: 
+contenido se manipula con JavaScript 
+que se ejecuta en el navegador.
+end note
