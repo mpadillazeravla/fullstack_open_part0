@@ -1,4 +1,4 @@
-title Envio nota con formulario
+title Envio nota con formulario . Ejercicio 4
 
 browser->server:a la direccion del servidor new note
 server-->browser: responde codigo de estado HTTP 302 (redireccion)
