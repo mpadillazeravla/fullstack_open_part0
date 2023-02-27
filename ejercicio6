@@ -1,0 +1,17 @@
+title Envio nota SPA
+
+browser->server: a la direccion del servidor new note . [{ content: "HTML is easy", date: "2019-05-23" }, ...]
+note over server:
+La cabecera Content-Type de la solicitud le dice al servidor
+que los datos incluidos están representados en formato JSON.
+end note
+
+server-->browser: Status code 201 : created
+
+note over server:
+Controlador eventos crea nueva nota y
+la agrega a la lista con notes.push(note) 
+y envia nueva nota servidor
+end note
+
+server-->browser: [{ content: "HTML is easy", date: "2019-05-23" }, ...]
