@@ -1,0 +1,16 @@
+title Envio nota con formulario
+
+browser->server:a la direccion del servidor new note
+server-->browser: responde codigo de estado HTTP 302 (redireccion)
+server-->browser: servidor solicita que se relice nueva solicitud HTTP GET a la direccin /notes
+browser->server: GET https://studies.cs.helsinki.fi/exampleapp/notes
+server-->browser: main.css
+server-->browser: main.js
+server-->browser: data.json
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
+server-->browser: [{ content: "HTML is easy", date: "2019-05-23" }, ...]
+
+note over server:
+El servidor crea un nuevo objeto de nota
+y lo agrega al array llamada NOTES
+end note
